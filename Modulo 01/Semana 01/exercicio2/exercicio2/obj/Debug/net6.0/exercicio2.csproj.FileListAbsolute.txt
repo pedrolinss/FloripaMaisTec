@@ -1,0 +1,15 @@
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/bin/Debug/net6.0/exercicio2
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/bin/Debug/net6.0/exercicio2.deps.json
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/bin/Debug/net6.0/exercicio2.runtimeconfig.json
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/bin/Debug/net6.0/exercicio2.dll
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/bin/Debug/net6.0/exercicio2.pdb
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.csproj.AssemblyReference.cache
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.AssemblyInfoInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.AssemblyInfo.cs
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.csproj.CoreCompileInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.dll
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/refint/exercicio2.dll
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.pdb
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/exercicio2.genruntimeconfig.cache
+/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/Debug/net6.0/ref/exercicio2.dll
