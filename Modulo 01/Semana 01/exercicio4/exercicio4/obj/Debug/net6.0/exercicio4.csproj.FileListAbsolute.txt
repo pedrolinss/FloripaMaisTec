@@ -1,0 +1,15 @@
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/bin/Debug/net6.0/exercicio4
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/bin/Debug/net6.0/exercicio4.deps.json
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/bin/Debug/net6.0/exercicio4.runtimeconfig.json
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/bin/Debug/net6.0/exercicio4.dll
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/bin/Debug/net6.0/exercicio4.pdb
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.csproj.AssemblyReference.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.AssemblyInfoInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.AssemblyInfo.cs
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.csproj.CoreCompileInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.dll
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/refint/exercicio4.dll
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.pdb
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/exercicio4.genruntimeconfig.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio4/exercicio4/obj/Debug/net6.0/ref/exercicio4.dll

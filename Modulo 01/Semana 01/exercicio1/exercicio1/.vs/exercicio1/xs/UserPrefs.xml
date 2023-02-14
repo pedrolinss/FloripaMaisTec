@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0D9992E1-0DFB-4F13-BF4C-B76D996B5273}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../ola_Mundo/obj/Release/net7.0/ola_Mundo.GeneratedMSBuildEditorConfig.editorconfig">
+    <Files>
+      <File FileName="../../../../ola_Mundo/obj/Release/net7.0/ola_Mundo.GeneratedMSBuildEditorConfig.editorconfig" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exercicio1" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.exercicio1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

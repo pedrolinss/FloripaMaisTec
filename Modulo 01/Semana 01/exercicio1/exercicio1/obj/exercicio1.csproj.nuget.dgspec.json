@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio1/exercicio1/exercicio1.csproj": {}
+    "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio1/exercicio1/exercicio1.csproj": {}
   },
   "projects": {
-    "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio1/exercicio1/exercicio1.csproj": {
+    "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio1/exercicio1/exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio1/exercicio1/exercicio1.csproj",
+        "projectUniqueName": "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio1/exercicio1/exercicio1.csproj",
         "projectName": "exercicio1",
-        "projectPath": "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio1/exercicio1/exercicio1.csproj",
+        "projectPath": "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio1/exercicio1/exercicio1.csproj",
         "packagesPath": "/Users/pedrolins/.nuget/packages/",
-        "outputPath": "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio1/exercicio1/obj/",
+        "outputPath": "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio1/exercicio1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pedrolins/.nuget/NuGet/NuGet.Config"

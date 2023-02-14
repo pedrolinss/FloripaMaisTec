@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/exercicio2.csproj",
+      "projectUniqueName": "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio2/exercicio2/exercicio2.csproj",
       "projectName": "exercicio2",
-      "projectPath": "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/exercicio2.csproj",
+      "projectPath": "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio2/exercicio2/exercicio2.csproj",
       "packagesPath": "/Users/pedrolins/.nuget/packages/",
-      "outputPath": "/Users/pedrolins/Documents/Floripa+Tec/Semana 1/exercicios/exercicio2/exercicio2/obj/",
+      "outputPath": "/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 01/exercicio2/exercicio2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pedrolins/.nuget/NuGet/NuGet.Config"

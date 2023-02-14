@@ -1,4 +1,23 @@
-﻿<Properties StartupConfiguration="{6A577CCA-A491-4819-8391-6C7C1BD85314}|Default">
-  <MonoDevelop.Ide.ItemProperties.exercicio3 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{239EDA74-D761-4D01-9174-9EEEAE7D1D67}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.exercicio3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exercicio3/Program.cs">
+    <Files>
+      <File FileName="exercicio3/Program.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exercicio3" expanded="True">
+            <Node name="exercicio3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
