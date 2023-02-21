@@ -1,6 +1,6 @@
-﻿using Conta;
+﻿using ContaBancaria;
 
-ContaBancaria contaBancaria = new ContaBancaria();
+Conta contaBancaria = new Conta();
 
 Console.WriteLine("Depositar :");
 contaBancaria.deposito = int.Parse(Console.ReadLine());

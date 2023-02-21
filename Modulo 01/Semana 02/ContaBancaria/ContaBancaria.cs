@@ -1,7 +1,7 @@
 ﻿using System;
-namespace Conta
+namespace ContaBancaria
 {
-	public class ContaBancaria
+	public class Conta
 	{
 		public int saque;
 		public int deposito;
