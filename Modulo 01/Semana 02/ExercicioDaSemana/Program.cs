@@ -1,12 +1,6 @@
 ﻿using ExercicioDaSemana;
 
-ContaBancaria contaBancaria = new ContaBancaria();
+ContaBancaria conta = new ContaBancaria();
+conta.numero = 1234;
 
-Console.WriteLine("Digite o valor do deposito :");
-int deposito = int.Parse(Console.ReadLine());
-
-Console.WriteLine("Digite o valor do saque :");
-int saque = int.Parse(Console.ReadLine());
-
-
-contaBancaria.Saldo(deposito, saque);
+C
