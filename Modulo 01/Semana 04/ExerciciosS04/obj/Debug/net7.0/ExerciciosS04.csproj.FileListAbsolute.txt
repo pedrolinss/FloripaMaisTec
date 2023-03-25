@@ -1,0 +1,15 @@
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.csproj.AssemblyReference.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.AssemblyInfoInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.AssemblyInfo.cs
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.csproj.CoreCompileInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/bin/Debug/net7.0/ExerciciosS04
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/bin/Debug/net7.0/ExerciciosS04.deps.json
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/bin/Debug/net7.0/ExerciciosS04.runtimeconfig.json
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/bin/Debug/net7.0/ExerciciosS04.dll
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/bin/Debug/net7.0/ExerciciosS04.pdb
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.dll
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/refint/ExerciciosS04.dll
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.pdb
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ExerciciosS04.genruntimeconfig.cache
+/Users/pedrolins/Documents/Floripa+Tec/FloripaMaisTec/Modulo 01/Semana 04/ExerciciosS04/obj/Debug/net7.0/ref/ExerciciosS04.dll

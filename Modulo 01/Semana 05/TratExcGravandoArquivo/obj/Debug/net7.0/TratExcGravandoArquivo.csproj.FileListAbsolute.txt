@@ -1,0 +1,15 @@
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/bin/Debug/net7.0/TratExcGravandoArquivo
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/bin/Debug/net7.0/TratExcGravandoArquivo.deps.json
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/bin/Debug/net7.0/TratExcGravandoArquivo.runtimeconfig.json
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/bin/Debug/net7.0/TratExcGravandoArquivo.dll
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/bin/Debug/net7.0/TratExcGravandoArquivo.pdb
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.csproj.AssemblyReference.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.AssemblyInfoInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.AssemblyInfo.cs
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.csproj.CoreCompileInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.dll
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/refint/TratExcGravandoArquivo.dll
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.pdb
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/TratExcGravandoArquivo.genruntimeconfig.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/TratExcGravandoArquivo/obj/Debug/net7.0/ref/TratExcGravandoArquivo.dll
