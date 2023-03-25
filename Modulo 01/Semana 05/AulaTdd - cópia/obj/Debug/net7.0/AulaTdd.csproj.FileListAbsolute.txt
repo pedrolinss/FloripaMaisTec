@@ -1,0 +1,15 @@
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.csproj.AssemblyReference.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.AssemblyInfoInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.AssemblyInfo.cs
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.csproj.CoreCompileInputs.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/bin/Debug/net7.0/AulaTdd
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/bin/Debug/net7.0/AulaTdd.deps.json
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/bin/Debug/net7.0/AulaTdd.runtimeconfig.json
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/bin/Debug/net7.0/AulaTdd.dll
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/bin/Debug/net7.0/AulaTdd.pdb
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.dll
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/refint/AulaTdd.dll
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.pdb
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/AulaTdd.genruntimeconfig.cache
+/Users/pedrolins/Documents/Floripa+Tec/EmAula/Semana05/AulaTdd/obj/Debug/net7.0/ref/AulaTdd.dll
